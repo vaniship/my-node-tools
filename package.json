@@ -1,0 +1,20 @@
+{
+  "name": "my-node-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node",
+    "start:c": "ts-node src/c.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dayjs": "^1.10.7",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
